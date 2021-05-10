@@ -1,0 +1,1 @@
+# CSGO-Redirect-On-Connect
