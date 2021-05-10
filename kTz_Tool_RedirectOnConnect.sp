@@ -1,7 +1,6 @@
 #include <sourcemod>
 #include <sdktools>
 #include <dhooks>
-#include <clientprefs>
 
 /* =========================================
   =========================================
